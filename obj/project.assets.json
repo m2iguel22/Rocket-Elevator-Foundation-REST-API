@@ -8086,19 +8086,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {}
+    "C:\\Users\\codeboxx\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\Rest\\Rocket_Rest\\Rocket_Rest.csproj",
+      "projectUniqueName": "C:\\Users\\codeboxx\\Desktop\\Foundation_REST_API\\Rocket-Elevator-Foundation-REST-API\\Rocket_Rest.csproj",
       "projectName": "Rocket_Rest",
-      "projectPath": "C:\\Users\\gabri\\Desktop\\Rest\\Rocket_Rest\\Rocket_Rest.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Desktop\\Rest\\Rocket_Rest\\obj\\",
+      "projectPath": "C:\\Users\\codeboxx\\Desktop\\Foundation_REST_API\\Rocket-Elevator-Foundation-REST-API\\Rocket_Rest.csproj",
+      "packagesPath": "C:\\Users\\codeboxx\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\codeboxx\\Desktop\\Foundation_REST_API\\Rocket-Elevator-Foundation-REST-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\codeboxx\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

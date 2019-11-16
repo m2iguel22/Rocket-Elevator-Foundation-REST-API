@@ -16,5 +16,6 @@ namespace Rocket_Rest.Models
         public DbSet<Address> addresses { get; set; }
         public DbSet<Lead> leads { get; set; }
         public DbSet<Customer> customers { get; set; }
+        public DbSet<Intervention> interventions { get; set; }
     }
 }
